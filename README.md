@@ -299,3 +299,5 @@ failures, validating behavior, and documenting delivery trade-offs.
 The service-business scenario is an example. Adapting the workflow to
 another sector would require changing the data model, policies,
 integrations, and evaluation cases.
+
+![FlowBridge dashboard with Gemini extraction and booking review](docs/dashboard.png)
