@@ -254,7 +254,7 @@ export default function App() {
             <div className="eyebrow">
               Service operations · Demo workspace
             </div>
-            <h1>Request-to-Action</h1>
+            <h1>FlowBridge</h1>
             <div className="muted">
               Review customer requests and approve calendar bookings.
             </div>
