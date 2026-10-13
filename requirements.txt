@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic>=2,<3
+httpx
+pytest
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+httplib2
+requests
+tzdata
+python-dotenv

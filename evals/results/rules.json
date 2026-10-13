@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-10-13T19:55:40.198204+00:00",
+  "mode": "rules",
+  "model": null,
+  "case_count": 21,
+  "method_counts": {
+    "rule_based": 21
+  },
+  "fallback_reasons": {},
+  "pipeline_field_accuracy": {
+    "service_type": 1.0,
+    "time_window": 1.0,
+    "contact": 1.0,
+    "in_scope": 1.0
+  },
+  "pipeline_exact_match_accuracy": 1.0,
+  "gemini_case_count": 0,
+  "gemini_field_accuracy": null,
+  "gemini_exact_match_accuracy": null,
+  "failures": []
+}
